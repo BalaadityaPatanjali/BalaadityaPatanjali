@@ -1,7 +1,6 @@
-<h1 align="left">Hi ! I am Balaaditya.</h1>
+<h3 align="left">Hi ! I am Balaaditya.</h1>
 
 • I am very enthusiastic about DevOps and Cloud. I love learning new things and contributing to open source.
-
 • Currently, a sophomore at NIT Delhi,India.
 
 <h3 align="left">Languages and Tools:</h3>
